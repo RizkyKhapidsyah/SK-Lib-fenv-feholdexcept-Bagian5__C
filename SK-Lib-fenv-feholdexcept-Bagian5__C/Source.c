@@ -1,7 +1,3 @@
-// pragma_directive_fenv_access_x86.cpp
-// compile with: /O2 /arch:IA32
-// processor: x86
-
 /*  Source by Microsoft 
     Modified For Learn by Rizky Khapidsyah */
 
