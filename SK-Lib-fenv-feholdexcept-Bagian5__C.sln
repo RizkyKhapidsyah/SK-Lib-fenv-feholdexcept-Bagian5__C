@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Lib-fenv-feholdexcept-Bagian5__C", "SK-Lib-fenv-feholdexcept-Bagian5__C\SK-Lib-fenv-feholdexcept-Bagian5__C.vcxproj", "{B23521F8-906F-46AD-B3D4-3E878C8780AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Debug|x64.ActiveCfg = Debug|x64
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Debug|x64.Build.0 = Debug|x64
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Debug|x86.Build.0 = Debug|Win32
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Release|x64.ActiveCfg = Release|x64
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Release|x64.Build.0 = Release|x64
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Release|x86.ActiveCfg = Release|Win32
+		{B23521F8-906F-46AD-B3D4-3E878C8780AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABBAB95-E9AF-41C2-B410-41F01CE9295D}
+	EndGlobalSection
+EndGlobal
